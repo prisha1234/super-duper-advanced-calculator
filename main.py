@@ -6,7 +6,7 @@ print('%0.1f degree celcius is equal to %0.1f degree farenheit '%(celcius,farenh
 temp = farenheit
 if(temp >= 105):
   print ("it summer like weather")
-  elif (temp<=32):
+elif (temp<=32):
     print ('wow must be pretty cold there')
-    else:
-      print("temp is right between spring and fall not too cold not to warm in my thats the best temp")
+else:
+      print("the temp is right between spring and fall not too cold not to warm in my  opinion thats the best temp")
